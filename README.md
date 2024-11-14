@@ -1,6 +1,6 @@
 ### Hello, Nice to meet you 👋
 ---
-![image](https://github.com/user-attachments/assets/7083056e-59ba-4202-b84e-9b1f62963e8e)
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/268c1a75-e772-4afe-bdd1-663bccf6ae07)
 
 Welcome to my page, I'm Sangyun, **Backend Developer** from South Korea 🇰🇷
 
