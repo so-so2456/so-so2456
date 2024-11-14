@@ -20,7 +20,7 @@ sangyun = {
             "dl" : ["Neural Network"],
             "cv" : ["Image Detection", "Image Segmentation"],
             "generativeAI" : ["Prompt Engineering", "Local LLM"],
-        }
+        },
         "mobileApp": {
             crossPlatform: ["Flutter"],
         },
