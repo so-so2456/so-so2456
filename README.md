@@ -4,7 +4,7 @@ Welcome to my page, I'm Sangyun, **Backend Developer** from South Korea 🇰🇷
 
 ### 👨‍💻 More about me
 ```
-const sangyun = {
+sangyun = {
     "pronouns" : "He" | "Him",
     "language" : ["Java", "Python", "Dart", "JavaScript"],
     "whatICanDo" : ["Web Dev", "AI", "App Dev", "Cloud Computing"],
@@ -37,7 +37,7 @@ const sangyun = {
     },
     "preferredCollaborationTool" : ["Notion", "Discord", "Jira", "Slack"],
     "currentFocus" : "I'm studying Cloud Native & MSA",
-};
+}
 ```
 
 <!--
