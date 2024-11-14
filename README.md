@@ -3,7 +3,7 @@
 Welcome to my page, I'm Sangyun, **Backend Developer** from South Korea 🇰🇷
 
 ### 👨‍💻 More about me
-```
+``` python
 sangyun = {
     "pronouns" : "He" | "Him",
     "language" : ["Java", "Python", "Dart", "JavaScript"],
