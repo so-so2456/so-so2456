@@ -33,7 +33,7 @@ sangyun = {
         "misc" : ["WebSocket", "Stomp", "FCM"],
     },
     "architecture" : {
-        backEnd: ["microservices", "monolithic", "serverless"],
+        "backEnd" : ["microservices", "monolithic", "serverless"],
     },
     "preferredCollaborationTool" : ["Notion", "Discord", "Jira", "Slack"],
     "currentFocus" : "I'm studying Cloud Native & MSA",
