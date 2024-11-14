@@ -1,8 +1,8 @@
 ### Hello, Nice to meet you 👋
 ---
-Welcome to my page, I'm Sangyun, **Backend Developer** from South Korea 🇰🇷
-
 ![image](https://github.com/user-attachments/assets/7083056e-59ba-4202-b84e-9b1f62963e8e)
+
+Welcome to my page, I'm Sangyun, **Backend Developer** from South Korea 🇰🇷
 
 ### 👨‍💻 More about me
 ``` python
