@@ -24,7 +24,7 @@ sangyun = {
         "mobileApp": {
             crossPlatform: ["Flutter"],
         },
-        "devOps" : ["Docker", "Kubernetes", Jenkins", "Nexus", "ArgoCD", "Helm"],
+        "devOps" : ["Docker", "Kubernetes", "Jenkins", "Nexus", "ArgoCD", "Helm"],
         "cloudServices" : {
             "aws" : ["EC2", "S3", "EKS"],
             "gcp" : ["GCE"],
