@@ -22,7 +22,7 @@ sangyun = {
             "generativeAI" : ["Prompt Engineering", "Local LLM"],
         },
         "mobileApp": {
-            crossPlatform: ["Flutter"],
+            "crossPlatform" : ["Flutter"],
         },
         "devOps" : ["Docker", "Kubernetes", "Jenkins", "Nexus", "ArgoCD", "Helm"],
         "cloudServices" : {
